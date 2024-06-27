@@ -100,6 +100,7 @@ Docker is a containerization platform that provides easy way to containerize you
 
 In simple words, you can understand as `containerization is a concept or technology` and `Docker Implements Containerization`.
 
+ANOTHER PLATFORM LIKE DOCKER IS -> PODMAN etc. 
 
 ### Docker Architecture ?
 
@@ -148,6 +149,13 @@ Docker objects
 
 When you use Docker, you are creating and using images, containers, networks, volumes, plugins, and other objects. This section is a brief overview of some of those objects.
 
+dockerHUB and quey.io 
+
+QUE: WHAT is the difference between DockerHUB and GITHUB
+
+DOCKER HUB USED TO STORE OUR DOCKER IMAGES
+
+GIT HUB USED TO STORE OUR SOURCE CODE
 
 #### Dockerfile
 
